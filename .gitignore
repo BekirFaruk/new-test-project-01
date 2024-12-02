@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Diğer
+*.log
+*.tmp
+*.bak
+*.swp
